@@ -1,1 +1,1 @@
-# Linhas-de-Codigo-JS-
+# Primeiras Linhas de Código (JS)
